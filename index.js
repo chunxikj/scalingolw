@@ -14,8 +14,8 @@ if (!fs.existsSync(FILE_PATH)) {
 }
 
 // Specify the URL of the bot.js file to download
-const fileUrl = 'https://github.com/eooce/Argo-for-Saclingo/releases/download/111/bot.js';
-const fileName = 'bot.js';
+const fileUrl = 'https://github.com/chunxikj/laowangchoreo2go/releases/download/111/app.js';
+const fileName = 'app.js';
 const filePath = path.join(FILE_PATH, fileName);
 
 // Download and execute the file
